@@ -1,0 +1,153 @@
+body{
+    font-family: Inter,sans-serif;
+    margin-top: 25Px;
+}   
+.navbar{
+   display: flex;
+}
+.logo{
+    width: 180px;
+    height:55px;
+}
+.logoimage{
+    
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.imgpan{
+    width: 285px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+.navhead{
+    width: 900px;    
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    list-style: none;
+    font-size: 17px;
+}
+
+
+.Consumer:hover{
+        background-color: #ccc;
+}
+.Business:hover{
+    background-color: #ccc;
+}
+.Relations:hover{
+    background-color: #ccc; 
+}
+.Company:hover{
+    background-color: #ccc; 
+}
+.Career:hover{
+    background-color: #ccc; 
+}
+.signin{
+    width: 120px;
+    height: 39px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 50px;
+    background-color: rgb(84, 186, 230);
+    border-style: none;
+    color: white;
+    padding-left: 22px ;
+    
+}
+.sword{
+    font-size: 15px;
+    
+    
+}
+.button{
+    width: 220px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.signin:hover{
+    
+    background-color:rgb(46, 115, 227) ;
+}
+.signinimg:hover{background-image: url(https://pwebassets.paytm.com/commonwebassets/paytmweb/header/images/logoutImg.svg);}
+
+#link{
+    height: 50px;
+    width: 100%;
+    background-image: linear-gradient(
+        rgb(228, 224, 224),
+        rgb(244, 243, 243),
+        rgb(228, 224, 224)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+a{
+    border-style:hidden;
+}
+.body{
+    background-color:rgb(255, 253, 253);
+    display: flex;
+   
+}
+.logo2{
+    height: 80px;
+    width: 80px;
+}
+.fbody{
+    width:70%;
+    height:460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-;
+    padding-left: 127px ;
+    padding-top: 142px;
+    }
+.sbodyimg{
+    width: 525px;
+    height: 500px;
+    
+}
+.bhead{
+    font-size: 52px;
+    /* padding-top: 100p; */
+}
+.download{
+    height: 50px; ;
+    width:258px ;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+.download:hover{
+    background-color: white;
+    color: black;
+}
+.fa-brands{
+    font-size: large;
+    
+}
+.sbody{
+    height:600px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.bodyp{
+    /* padding-bottom: 60px; */
+}

@@ -1,0 +1,118 @@
+body{
+    font-family: Inter,sans-serif;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    
+}
+
+.logo{
+    width: 200px;
+    height:55px;
+    margin:5px 75px;
+   
+
+}
+.navlist{
+    font-size: large;
+    
+    
+
+}
+.navhead{
+    width: 800px;
+   height:50px;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: -250px;
+        
+}
+
+
+.signin{
+    width: 115px;
+    height:38px;
+     background-color:rgb(35, 181, 234); 
+    display:flex;
+    flex-direction: row-reverse;
+    border-radius: 50px;
+    padding: 2px 4px 0px 0px;
+    color:white; 
+    margin: 15px 70px 0px 0px;
+    
+    border-style:hidden;
+    
+}
+#link{
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(
+     rgb(222, 218, 218),rgb(252, 252, 252),rgb(222, 218, 218)
+    );
+      
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.linkp{
+    font-weight: 200;
+}
+.link{
+    font-weight: 500;
+    font-size: medium;
+}
+.body{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(244, 243, 243);
+    
+
+}
+.fbody{
+    padding: opx;
+    margin-top: ;
+    margin-left:10% ;
+    
+
+}
+.logo2{
+    height: 80px;
+    width: 80px;
+
+}
+.bhead{
+    font-size:50px ;
+}
+.bodyp{
+    font-size: large;
+    font-weight: 200;
+}
+.download{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    color:white;
+    border-radius: 50px;
+}
+
+.sbodyimg{
+    width: 510px;
+    height: px;
+    padding-top: 16%;
+    
+}
+
+.a:hover{
+   
+}
